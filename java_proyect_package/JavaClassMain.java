@@ -3,6 +3,8 @@ package java_proyect_package;
 import java.util.Scanner; // Necesario para utilizar la entrada de teclado del system.
 
 public class JavaClassMain {
+	
+	int param1 = 22; 
 
 	public static void main(String[] args) {
 		//Ejercicio 1-a
